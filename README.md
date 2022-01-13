@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaerda
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning how make code better. 
+- 🌱 I’m currently learning how to make code better. 
 
 <!---
 yaerda/yaerda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
